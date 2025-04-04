@@ -38,10 +38,10 @@ because input devices = my personality
 ## 🎵 Music Production
   ### DAWs
   - [**Ableton Live 12 Suite**](https://www.ableton.com/en/live/) — when i feel like i wanna be snobby on the internet
-  - **FL Studio** — loop go brrr
-  - **Logic Pro X** — collab tax
-  - **Akai MPC** — full Kanye mode activated (minus the PR disasters)
-  - **Avid Pro Tools** when i record an artist and i want to make them feel better than they are
+  - [**FL Studio**](https://www.image-line.com/fl-studio/) — loop go brrr
+  - [**Logic Pro X**](https://www.apple.com/logic-pro/) — collab tax
+  - [**Akai MPC Studio**](https://www.akaipro.com/mpcstudio.html) — full Kanye mode activated (minus the PR disasters)
+  - [**Avid Pro Tools**](https://www.avid.com/pro-tools) when i record an artist and i want to make them feel better than they are
 ### Plugins
   - [Omnisphere](https://www.spectrasonics.net/products/omnisphere/overview.php) if you can't find or make the sound you want in here, idk what to tell you bruh. seems like a skill issue
   - [Serum(2)](https://xferrecords.com/products/serum-2) multi purpose synth, incredible bang for buck, and great for sound design. before serum 2 came around, i had no idea that i could have a stick figure as a wave table
