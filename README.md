@@ -11,7 +11,7 @@ so here goes:
 ## ✨ Fonts (Code Drip)
 the real reason my code looks clean.
 - [IBM Plex Mono](https://fonts.google.com/specimen/IBM+Plex+Mono) clean & classy
-- [JetBrains Mono](https://www.jetbrains.com/lp/mono/#how-to-install) for galaxy brain debugging
+- [JetBrains Mono](https://www.jetbrains.com/lp/mono/#how-to-install) to make boomers feel at home
 - [Berkeley Mono](https://berkeleygraphics.com/typefaces/berkeley-mono/) paid, but makes you feel elite
 - [Mononoki](https://madmalik.github.io/mononoki/) when I’m in my cozy hacker arc
 - [Monaspace](https://monaspace.githubnext.com/) GitHub made a font, and it's kinda based tbh
