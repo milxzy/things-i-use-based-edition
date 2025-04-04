@@ -37,7 +37,7 @@ because input devices = my personality
 
 ## 🎵 Music Production
   ### DAWs
-  - **Ableton Live 12 Suite(https://www.ableton.com/en/live/)** — when i feel like i wanna be snobby on the internet
+  - [**Ableton Live 12 Suite**](https://www.ableton.com/en/live/) — when i feel like i wanna be snobby on the internet
   - **FL Studio** — loop go brrr
   - **Logic Pro X** — collab tax
   - **Akai MPC** — full Kanye mode activated (minus the PR disasters)
