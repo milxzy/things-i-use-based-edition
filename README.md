@@ -114,7 +114,7 @@ i distrohop, therefore i am.
 because sometimes you still need to type words and edit pics.  
 - **[LibreOffice](https://www.libreoffice.org/)** – you want Excel? here’s Off-brand Excel™. FOSS so it's based. 
 - **[GIMP](https://www.gimp.org/)** – UI from 2002, power from 3022.  
-- **Photoshop/Lightroom** – hate it. still use it.
+- **[Photoshop/Lightroom](https://www.adobe.com/products/catalog.html)** – hate it. still use it.
 - **[Blender](https://www.blender.org/)** – 3D modeling and 3D suffering.  
 
 # 🍏 Mac-Exclusive Tools  
