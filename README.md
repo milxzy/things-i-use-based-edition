@@ -26,7 +26,7 @@ or how i trick myself into thinking im doing stuff
 
 ## 🎮 Periphreals
 because input devices = my personality
-- [Keyboard] custom Razer Huntsman w/ lots of mods
+- Keyboard: custom Razer Huntsman w/ lots of mods
 - [Mouse](https://www.logitechg.com/en-us/products/gaming-mice/pro-x-superlight-wireless-mouse.910-005940.html) Logitiech G Pro X Superlight Wireless. no wires, lightweight, makes me click on heads faster
 - [Mousepad](https://themousepadcompany.com/products/strata-liquid-1?srsltid=AfmBOorMEZZwXoxKLM-wQJpDSudPQmD9bTR6JQR93pKQyUMr2x9F6_oE&variant=44143263613126) my actual mousepad was a limited edition run, but this is the closest thing. you snooze you lose.
 - [Speakers](https://www.sweetwater.com/store/detail/HS5--yamaha-hs5-5-inch-powered-studio-monitor) x2 Yamaha HS5 - my neighbors have a shared trauma now
