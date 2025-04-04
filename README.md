@@ -70,8 +70,9 @@ where i pretend i'm in mr. robot.
 
 ## 🎨 Themes & Aesthetics
 dark mode isn’t a preference. it’s a lifestyle.  
-- **[Rose Pine](https://rosepinetheme.com/)** / **IBM Theme** – dark mode with ✨depth✨.  
-- **[Oh My Zsh](https://ohmyz.sh/)** – if you’re not using it, idk what to tell ya bruh
+- **[Rose Pine](https://rosepinetheme.com/)** when i'm chillin
+- **[IBM Theme](https://www.ibm.com/brand/experience-guides/developer/brand/color/)** when things need to get done  
+- **[Oh My Zsh](https://ohmyz.sh/)** if you’re not using it, idk what to tell ya bruh
 
 ## 🔐 Privacy Tools
 protecting my data better than i protect my heart.  
@@ -83,7 +84,7 @@ tech tools for digital chaos.
 - **[Neofetch](https://github.com/dylanaraps/neofetch)** – yes, I flex my specs. no, I don’t care  
 - **[HTop](https://hisham.hm/htop/)** – only opened when someone’s watching  
 - **[Cmus](https://cmus.github.io/)** – terminal music player for true minimalists  
-- **[F.lux](https://justgetflux.com/)** – eye protection for 3AM doom coding  
+- **[F.lux](https://justgetflux.com/)** – i appreciate my vision, i try to protect it  
 - **[OBS Studio](https://obsproject.com/)** – streams, records, and crashes  
 - **[Streamdeck](https://www.elgato.com/en/stream-deck)** – hotkeys? nah, soundboard go *bruh*  
 - **[HWInfo64](https://www.hwinfo.com/)** – because I NEED to know my GPU temp
