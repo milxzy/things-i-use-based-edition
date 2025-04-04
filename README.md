@@ -160,15 +160,15 @@ because typing faster = better dev, right?
   # 🖥️ All White RGB Beast Build  
 for when your PC glows brighter than your future  
 
-- **[AMD Ryzen 9 7900X3D](https://www.amd.com/en/products/cpu/amd-ryzen-9-7900x3d)** – overkill is underrated.  
-- **[Deepcool LS720 360mm AIO](https://www.deepcool.com/products/Cooler/all-in-one-cooling/2022-11/15163_21037.shtml)** – keeps it cool while looking hot.  
+- **[AMD Ryzen 9 7900X3D](https://www.amd.com/en/products/processors/desktops/ryzen/7000-series/amd-ryzen-9-7900x3d.html)** – overkill is underrated.  
+- **[Deepcool LS720 360mm AIO](https://www.deepcool.com/products/Cooling/cpuliquidcoolers/LS720-WH-High-Performance-360mm-Liquid-CPU-Cooler-1851-1700-AM5/2024/15985.shtml)** – keeps it cool while looking hot.  
 - **[Asus ROG Strix B650-A Gaming](https://rog.asus.com/motherboards/rog-strix/rog-strix-b650-a-gaming-wifi-model/)** – more RGB, more power, more flex.  
-- **[Teamgroup T-Force Delta 32GB 6000 CL30](https://www.teamgroupinc.com/en/product/delta-rgb-ddr5)** – because nothing says performance like blinding lights.  
-- **[Mushkin Vortex LX 1TB NVMe SSD Gen 4.0](https://www.mushkin.com/solid-state-drives/vortex-lx/)** – so fast, your old HDD just rage quit.  
-- **[Gigabyte Aero RTX 4080](https://www.gigabyte.com/Graphics-Card/GV-N4080AERO-OC-16GD)** – “future-proofing” means having no savings.  
+- **[Teamgroup T-Force Delta 32GB 6000 CL30](https://www.teamgroupinc.com/en/product-detail/memory/T-FORCE/delta-rgb-ddr5-black/delta-rgb-ddr5-black-FF3D532G6000HC30DC01/)** – because nothing says performance like blinding lights.  
+- **[Mushkin Vortex LX 1TB NVMe SSD Gen 4.0](https://www.amazon.com/Mushkin-Vortex-LX-Internal-Gaming-MKNSSDVL1TB-D8/dp/B0BTTQP798?th=1)** – so fast, your old HDD just rage quit.  
+- **[Gigabyte Aero RTX 4080](https://www.gigabyte.com/Graphics-Card/GV-N4080AERO-OC-16GD#kf)** – “future-proofing” means having no savings.  
 - **[Lian Li O11 Dynamic Evo](https://lian-li.com/product/o11-dynamic-evo/)** – my components deserve a luxury suite.  
-- **[Corsair 1000W 80+ Gold](https://www.corsair.com/us/en/p/psu/cp-9020214-na/rm1000x-2021-fully-modular-atx-power-supply-1000-watt-80-plus-gold-certified)** – because 999W just wasn’t enough.  
-- **[10x Deepcool FC120 RGB Fans](https://www.deepcool.com/products/Cooling/case-fan/2021-08/13726_14391.shtml)** – more fans than your average influencer.  
+- **[Corsair 1000W 80+ Gold](https://www.corsair.com/us/en/p/psu/cp-9020094-na/rmx-series-rm1000x-1000-watt-80-plus-gold-certified-fully-modular-psu-cp-9020094-na?srsltid=AfmBOoqWD--OqUykoGyFDfG7T42K4TvOty0UDuZxDtSi2fjO3cLyF-QJ)** – because 999W just wasn’t enough.  
+- **[10x Deepcool FC120 RGB Fans](https://www.deepcool.com/products/Cooling/fans/FC120-WHITE-3-IN-1-Daisy-Chain-Performance-ARGB-Fan/2021/13820.shtml)** – more fans than your average influencer.  
 - **[Lian Li Strimer V2 24-Pin RGB](https://lian-li.com/product/strimer-plus-v2/)** – because cables should shine too.  
 - **[Asiahorse White Cables](https://www.amazon.com/s?k=asiahorse+white+cable+extensions)** – plain black cables? could never be me.  
 - **[EZDIY White Cables](https://www.amazon.com/s?k=ezdiy+white+cable+extensions)** – everything has to be white, including the cables  
