@@ -33,7 +33,7 @@ because input devices = my personality
 - [Audio Interface](https://us.focusrite.com/products/scarlett-2i2) Scarlett 2i2 - Gen ??? but it works
 - [Mic](https://www.shure.com/en-US/products/microphones/sm58?variant=SM58-LC) Shure SM58 - like a 2005 toyota camry, old but reliable
 - [Audio Cables](https://mogamicable.com/category/gold/#gsc.tab=0) overpriced? yeah. worth it? also yeah
-- [Chair] TBD - I accept thrones only
+- Chair: TBD - I accept thrones only
 
 ## 🎵 Music Production
   ### DAWs
