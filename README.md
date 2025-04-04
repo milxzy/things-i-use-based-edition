@@ -30,14 +30,14 @@ because input devices = my personality
 - [Mouse](https://www.logitechg.com/en-us/products/gaming-mice/pro-x-superlight-wireless-mouse.910-005940.html) Logitiech G Pro X Superlight Wireless (red). no wires, lightweight, makes me click on heads faster
 - [Mousepad](https://themousepadcompany.com/products/strata-liquid-1?srsltid=AfmBOorMEZZwXoxKLM-wQJpDSudPQmD9bTR6JQR93pKQyUMr2x9F6_oE&variant=44143263613126) my actual mousepad was a limited edition run, but this is the closest thing. you snooze you lose.
 - [Speakers](https://www.sweetwater.com/store/detail/HS5--yamaha-hs5-5-inch-powered-studio-monitor) x2 Yamaha HS5 - my neighbors have a shared trauma now
-- [Ausio Interface](https://us.focusrite.com/products/scarlett-2i2) Scarlett 2i2 - Gen ??? but it works
+- [Audio Interface](https://us.focusrite.com/products/scarlett-2i2) Scarlett 2i2 - Gen ??? but it works
 - [Mic](https://www.shure.com/en-US/products/microphones/sm58?variant=SM58-LC) Shure SM58 - like a 2005 toyota camry, old but reliable
 - [Audio Cables](https://mogamicable.com/category/gold/#gsc.tab=0) overpriced? yeah. worth it? also yeah
 - [Chair] TBD - I accept thrones only
 
 ## 🎵 Music Production
   ### DAWs
-  - **Ableton Live 12 Suite** — when i feel like i wanna be snobby on the internet
+  - **Ableton Live 12 Suite(https://www.ableton.com/en/live/)** — when i feel like i wanna be snobby on the internet
   - **FL Studio** — loop go brrr
   - **Logic Pro X** — collab tax
   - **Akai MPC** — full Kanye mode activated (minus the PR disasters)
