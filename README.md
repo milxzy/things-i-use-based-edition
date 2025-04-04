@@ -77,6 +77,7 @@ dark mode isn’t a preference. it’s a lifestyle.
 ## 🔐 Privacy Tools
 protecting my data better than i protect my heart.  
 - **[Mullvad VPN](https://mullvad.net/)** – survived a sweedish FBI raid, probably more secure than my sense of self.
+- **[bitwarden](https://bitwarden.com/)** - appeals to me because of self hosting
 
 ## ⚙️ Utilities
 tech tools for digital chaos.  
