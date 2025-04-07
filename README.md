@@ -6,7 +6,7 @@
 
 so here goes:
 
-# 🚀 things i Use (Based Edition)
+# 🚀 things i use (Based Edition)
 
 ## ✨ Fonts (Code Drip)
 the real reason my code looks clean.
