@@ -22,7 +22,7 @@ or how i trick myself into thinking im doing stuff
 - [Flow](https://www.flow.app/) looks cool while i scroll twitter
 - ☕ a crippling caffeine addiction (better than any app)
 - [Obsidian](https://obsidian.md/) like notion, but without the “here’s my second brain 🤓” energy.
-- [cobalt.tools](https://cobalt.tools/) if you aren't technologically literate to use yt-dlp, or you are on someone else's computer.
+- [cobalt.tools](https://cobalt.tools/) if you aren't technologically literate enough to use yt-dlp, or you are on someone else's computer.
 
 ## 🎮 Periphreals
 because input devices = my personality
