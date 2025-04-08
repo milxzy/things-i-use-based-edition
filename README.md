@@ -104,6 +104,7 @@ because “where did i put that” is a daily phrase.
 depending on how much i care.  
 - **[Final Cut Pro](https://www.apple.com/final-cut-pro/)** – editing, but for when I actually care.  
 - **[DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/)** – when I don’t care.
+- **[Adobe After Effects](https://www.adobe.com/products/aftereffects.html)** - when I need to make my videos / music videos look like an acid trip
 
 ## 🐧 Operating Systems
 i distrohop, therefore i am.  
