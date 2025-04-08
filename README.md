@@ -8,6 +8,25 @@ so here goes:
 
 # 🚀 things i use (Based Edition)
 
+## 📑 Table of Contents  
+- [🚀 things i use (Based Edition)](#-things-i-use-based-edition)  
+  - [✨ Fonts (Code Drip)](#-fonts-code-drip)  
+  - [⏳ Productivity](#-productivity)  
+  - [🎮 Periphreals](#-periphreals)  
+  - [🎵 Music Production](#-music-production)  
+    - [DAWs](#daws)  
+    - [Plugins](#plugins)  
+    - [Headphones](#headphones)  
+  - [🖥️ IDEs & Editors](#️-ides--editors)  
+  - [🔲 Terminals](#-terminals)  
+  - [🎨 Themes & Aesthetics](#-themes--aesthetics)  
+  - [🔐 Privacy Tools](#-privacy-tools)  
+  - [⚙️ Utilities](#️-utilities)  
+  - [🌐 Browsers & Files](#-browsers--files)  
+  - [🎥 Editing Tools](#-editing-tools)  
+  - [🐧 Operating Systems](#-operating-systems)  
+  - [🧰 Office & Design](#-office--design)  
+
 ## ✨ Fonts (Code Drip)
 the real reason my code looks clean.
 - [IBM Plex Mono](https://fonts.google.com/specimen/IBM+Plex+Mono) clean & classy
